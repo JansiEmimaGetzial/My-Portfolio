@@ -54,3 +54,5 @@ Feel free to customize the content, colors, and styles to make this portfolio tr
 
 - HTML
 - CSS
+- JavaScript
+  
